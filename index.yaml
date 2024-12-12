@@ -13,7 +13,7 @@ team:
 
   members:
     - name: Mike Chen
-      role: Backend Developer
+      role: Frontend Developer
       skills:
         - Python
         - Django
