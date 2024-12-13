@@ -12,7 +12,7 @@ paths:
   /test-cases:
     get:
       summary: Get a list of all test cases
-      description: Retrieve a paginated list of all test cases. I MADE THIS CHANGE.. deleted this change. Blah blah blah
+      description: Retrieve a paginated list of all test cases.
       parameters:
         - name: page
           in: query
