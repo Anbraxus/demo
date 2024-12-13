@@ -10,9 +10,9 @@ servers:
     description: Staging server
 paths:
   /test-cases:
-    get:
+    post:
       summary: Get a list of all test cases
-      description: Retrieve a paginated list of all test cases.
+      description: Retrieve a paginated list of all test cases. Making a change here..
       parameters:
         - name: page
           in: query
